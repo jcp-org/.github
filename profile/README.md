@@ -2,9 +2,10 @@
 
 Welcome to the Java Community Process (JCP).  The JCP is the mechanism for developing standard technical specifications for Java technology.
 
-Currently Active Project:
+Currently Active Projects:
 
 [Java in Education](https://github.com/jcp-org/Java-in-Education) 
+[Java Ecosystem JCP Working Group](https://github.com/jcp-org/Java-Ecosystem-JCP-Working-Group/wiki/Java-Ecosystem-JCP-Working-Group)
 
 ## Get Started
 
